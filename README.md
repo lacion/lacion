@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Morales</h1>
-<h3 align="center">Director of Infrastrcture at HelpScout</h3>
+<h3 align="center">Director of Platform Engineering at HelpScout</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lacion&label=Profile%20views&color=0e75b6&style=flat" alt="lacion" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Golang Template](https://github.com/lacion/cookiecutter-golang)
 
-- 🌱 I’m currently learning **Javascript, TypeScript and FrontEnd development**
+- 🌱 I’m currently learning **Kotlin, Javascript, TypeScript and FrontEnd development**
 
 - 🤝 I’m looking for help with [Golang Template](https://github.com/lacion/cookiecutter-golang)
 
